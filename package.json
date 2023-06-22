@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "hola_Mundo.js",
+    "test": "este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo hola_Mundo.js"
+  },
+  "keywords": [
+    "first",
+    "proyect"
+  ],
+  "author": "Martin Olmos",
+  "license": "ISC"
+}
